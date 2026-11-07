@@ -5,10 +5,10 @@
    - The page itself is "network first": online you always get the newest version, offline you get the saved one.
    - Google Fonts are saved the first time they load, so the look survives offline too.
    - Your entries never touch this cache; they live in localStorage. */
-const BUILD_ID = "0a13a05b66";
+const BUILD_ID = "72482aa843";
 const PRECACHE = [
-  "./assets/app-7YWBVHDA.js",
-  "./assets/app-FMNB7PFU.css",
+  "./assets/app-67ZQOHOI.js",
+  "./assets/app-OVFOXK56.css",
   "./icons/apple-touch-icon.png",
   "./icons/favicon-32.png",
   "./icons/favicon-64.png",
